@@ -6,7 +6,7 @@
 * [Results](#results)
 * [Technologies](#technologies)
 * [Status](#status)
-* [Credits](#credits)
+* [Author](#author)
 
 ## General info
 The goal of this project is to implement KMeans algorithm for image color reduction using CUDA and compare it to standard CPU implementation. 
@@ -24,5 +24,6 @@ For the 1024x1024 image and K=255 I got:
 ## Status
 Project: _finished_
 
-## Credits
+## Author
 * [@MatMarkiewicz](https://github.com/MatMarkiewicz)
+
